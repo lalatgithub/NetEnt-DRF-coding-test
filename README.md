@@ -26,7 +26,7 @@ http://localhost:8000/update_book/{pk}/
 http://localhost:8000/add_genre/
 ```
 
-##### Available Users for testing purposes
+##### Available Users for testing purposes (Django built-in User Model)
 ```
 user: demo1
 pass: demo1
