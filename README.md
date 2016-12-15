@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ##### API Endpoints
-
+```
 <http://localhost:8000/api-auth/login/>
 
 <http://localhost:8000/api-auth/logout/>
@@ -24,6 +24,7 @@ pip install -r requirements.txt
 <http://localhost:8000/update_book/{pk}/>
 
 <http://localhost:8000/add_genre/>
+```
 
 ##### Available Users for testing purposes
 ```
