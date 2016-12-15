@@ -9,7 +9,7 @@ Ubuntu 14.04
 ```
 
 ##### Switch to project root directory and run below command to install project dependencies
-```bash
+```
 pip install -r requirements.txt
 ```
 
