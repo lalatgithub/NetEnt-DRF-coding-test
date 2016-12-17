@@ -15,15 +15,15 @@ pip install -r requirements.txt
 
 ##### API Endpoints
 ```
-http://localhost:8000/api-auth/login/
+POST http://localhost:8000/api-auth/login/
 
-http://localhost:8000/api-auth/logout/
+GET http://localhost:8000/api-auth/logout/
 
-http://localhost:8000/add_book/
+POST http://localhost:8000/add_book/
 
-http://localhost:8000/update_book/{pk}/
+PUT http://localhost:8000/update_book/{pk}/
 
-http://localhost:8000/add_genre/
+POST http://localhost:8000/add_genre/
 ```
 
 ##### Available Users for testing purposes (Django built-in User Model)
